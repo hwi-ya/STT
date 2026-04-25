@@ -1,4 +1,5 @@
-# OpenAi model whisper
+# STT 
+## 사용모델 - OpenAi model whisper
 
 ---
 
